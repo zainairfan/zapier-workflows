@@ -1,80 +1,87 @@
-# ⚡ Zapier Automation Workflows
+# 🚀 Zapier Automation Workflows Repository
 
-This repository contains my real-world **Zapier automation workflows** built to automate data processing, AI tasks, scheduling, and social media management.
-
-These workflows help reduce manual work and improve productivity using no-code automation tools.
-
----
-
-## 🚀 Workflows Included
-
-### 📊 Update Google Sheets Status to "Posted"
-- **Apps Used:** Google Sheets  
-- **Trigger:** New or updated rows in Google Sheets  
-- **Function:**  
-  Updates the status column to **"Posted"** when all required items are successfully processed.  
-- **Use Case:** Automating tracking of posting status in spreadsheets.
+This repository contains multiple **Zapier automation workflows** built to automate tasks across Google Sheets, Facebook Pages, AI tools, and email systems.  
+These automations help reduce manual work, improve productivity, and connect apps using no-code workflows.
 
 ---
 
-### 🤖 My Chatbot Automation
-- **Apps Used:** AI by Zapier, Google Sheets (if applicable)  
-- **Function:**  
-  Handles user queries and generates automated responses using AI.  
-- **Use Case:** Basic AI chatbot automation for communication handling.
+## 📌 Projects Included
+
+### 🟢 1. Google Sheets Status Automation
+**Workflow Name:** Update Google Sheets Status to Posted When All Items Are Posted  
+
+- Monitors rows in Google Sheets  
+- Automatically updates status to **"Posted"** when all conditions are met  
+- Helps track completion of scheduled tasks/posts  
+- Improves workflow visibility and automation tracking  
 
 ---
 
-### 📅 Daily Facebook Posts Automation
-- **Apps Used:** Schedule by Zapier, Facebook Pages  
-- **Trigger:** Daily scheduled time  
-- **Function:**  
-  Automatically posts content to Facebook Pages on a daily schedule.  
-- **Use Case:** Social media automation for consistent posting.
+### 📅 2. Daily Facebook Posts Automation
+**Workflow Name:** Daily Facebook Posts Scheduler  
+
+- Automatically posts content to Facebook Pages daily  
+- Uses scheduled triggers in Zapier  
+- Ensures consistent social media posting  
+- Reduces manual posting effort  
 
 ---
 
-### 🧠 AI Email Classifier
-- **Apps Used:** AI by Zapier, Email (Gmail/Outlook)  
-- **Function:**  
-  Classifies incoming emails into categories like **Important, Spam, or General** using AI.  
-- **Use Case:** Smart inbox management and email sorting automation.
+### 🤖 3. AI Chatbot Automation
+**Workflow Name:** AI Chatbot (Zapier + AI by Zapier)  
+
+- Responds to user inputs using AI  
+- Can be connected to messaging platforms  
+- Acts as a simple conversational assistant  
+- Useful for automation-based customer interaction  
 
 ---
 
-## 🛠️ Tools & Platforms Used
+### 📊 4. AI Email Classifier
+**Workflow Name:** AI Email Classifier  
 
-- Zapier  
-- Google Sheets  
-- AI by Zapier  
-- Facebook Pages  
-- Schedule by Zapier  
-- Email services (Gmail/Outlook)
+- Classifies incoming emails using AI  
+- Tags emails into categories like:
+  - Important  
+  - Spam  
+  - Inquiry  
+- Helps in inbox organization and prioritization  
+- Saves time in email management  
+
+---
+
+
+---
+
+## ⚙️ Tools & Platforms Used
+
+- Zapier (Automation Platform)
+- Google Sheets
+- Facebook Pages
+- AI by Zapier
+- Email Services (Gmail / Outlook)
 
 ---
 
 ## 🎯 Purpose of This Repository
 
-- Automate repetitive business tasks  
-- Improve workflow efficiency  
-- Learn and showcase no-code automation skills  
-- Integrate AI into real-world workflows  
+- Showcase automation & no-code skills  
+- Demonstrate real-world Zapier workflows    
+- Centralize AI + automation projects  
 
 ---
 
-## 📌 Key Highlights
+## 📈 Future Improvements
 
-- No-code automation solutions  
-- AI-powered workflows  
-- Social media scheduling automation  
-- Data tracking and management automation  
-
----
-
-## 🤝 Note
-
-These workflows are part of my learning and practical experience in automation using Zapier and AI tools.
+- Add advanced webhook automation  
+- Integrate OpenAI / Claude API workflows  
+- Multi-platform posting automation  
+- Logging & monitoring system for workflows  
 
 ---
 
-⭐ If you find this useful, feel free to star the repository!
+## ⭐ Note
+
+All workflows are built for learning, automation practice.
+
+---
